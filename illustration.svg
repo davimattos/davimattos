@@ -27,10 +27,6 @@
                     margin-left: 5vh;
 
                 }
-                .container {
-                    margin-left: 2px;
-                    border-left: 1px solid black;
-                }
                 #name {
                     font-size: 5rem;
                     font-weight: 100;
@@ -61,18 +57,16 @@
                 }
 
             </style>
-            <div class="container">
-                <div class="profile">
-                    <p id="name">
+            <div class="profile">
+                <p id="name">
                         DAVI
                     </p>
-                    <strong id="lastname">MATTOS</strong>
-                    <p id="description">FRONTEND / MOBILE STACK</p>
-                    <div class="social-media">
-                        <a href="https://www.linkedin.com/in/davimattosdev">
+                <strong id="lastname">MATTOS</strong>
+                <p id="description">FRONTEND / MOBILE STACK</p>
+                <div class="social-media">
+                    <a href="https://www.linkedin.com/in/davimattosdev">
                             in
                         </a>
-                    </div>
                 </div>
             </div>
         </div>
