@@ -58,7 +58,9 @@
                 <strong id="lastname">MATTOS</strong>
                 <p id="description">FRONTEND / MOBILE STACK</p>
                 <div class="social-media">
+                    <a href="#">
                       in
+                    </a>
                 </div>
             </div>
         </div>
