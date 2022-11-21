@@ -7,15 +7,6 @@
 </div>
 
 ---
-### Stats
-
-<div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimattos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimattos&hide=ruby,starlark,objective-c&layout=compact&langs_count=10&theme=tokyonight&layout=compact"/> 
-
-</div>
-
----
 ### Techs
 
 <p>
